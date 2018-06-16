@@ -1,4 +1,3 @@
-import java.io.*;
 class Problem4{
 
     public static boolean CheckPalindrome(long n){

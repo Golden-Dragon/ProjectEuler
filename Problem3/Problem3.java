@@ -1,4 +1,3 @@
-import java.io.*;
 class Problem3{
     
 	public static boolean CheckPrime(long n){
